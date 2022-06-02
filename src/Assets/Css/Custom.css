@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.back-img{
+  background-image: url('../../Assets/Image/two.jpg');
+  height: 383px;
+  border-radius: 5px;
+}
+#new{
+  color:white;
+  display: flex;
+  justify-content: center;
+  font-size: 33px;
+  font-weight: 400;
+}
+#sign{
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#wel{
+  display: flex;
+  justify-content: center;
+}
+
+.btn{
+  
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+#buton{
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+#para{
+  padding: 22px;
+}
+
+#mail{
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+.imp{
+  width:39% !important;
+}
+#extra{
+  justify-content: center;
+  display: flex;
+}
+#two{
+  display:grid;
+  justify-content: center;
+}
+#con{
+  padding: 15px;
+}
